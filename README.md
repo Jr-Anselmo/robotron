@@ -1,2 +1,1 @@
-# robotron
-criado durante curso
+# robotron-2000
